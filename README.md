@@ -1,1 +1,0 @@
-# Ciclo-de-vida-de-una-app-Android
