@@ -2,7 +2,7 @@
 
 Demo en Kotlin y Jetpack Compose que muestra qué le pasa a una app Android cuando el usuario la minimiza, la rota o la cierra, y cómo evitar perder datos.
 
-## Video de la demo
+## Video de la exposición
 
 https://youtu.be/Rbz3YqVUN-E
 
